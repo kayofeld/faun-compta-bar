@@ -1,0 +1,97 @@
+ [
+   {
+     "name": "Fukuju junmai ginjo",
+     "price": "3.00",
+     "type": "Saké",
+     "price_per_bottle": "42.00"
+   },
+   {
+     "name": "Genroku",
+     "price": "3.00",
+     "type": "Saké",
+     "price_per_bottle": "49.00"
+   },
+   {
+     "name": "Le Vent",
+     "price": "2.00",
+     "type": "Saké",
+     "price_per_bottle": "20.00"
+   },
+   {
+     "name": "Umesake Nokyo",
+     "price": "4.00",
+     "type": "Saké",
+     "price_per_bottle": "45.00"
+   },
+   {
+     "name": "Yuzusaké",
+     "price": "4.00",
+     "type": "Saké",
+     "price_per_bottle": "39.00"
+   },
+   {
+     "name": "Ninkasi Blonde",
+     "price": "3.00",
+     "type": "Bière"
+   },
+   {
+     "name": "Ninkasi Triple",
+     "price": "4.00",
+     "type": "Bière"
+   },
+   {
+     "name": "Sakuranbo",
+     "price": "3.00",
+     "type": "Thé"
+   },
+   {
+     "name": "Dragon d'Asie",
+     "price": "3.00",
+     "type": "Thé"
+   },
+   {
+     "name": "Houjicha BIO",
+     "price": "3.00",
+     "type": "Thé"
+   },
+   {
+     "name": "Sencha Okumidori BIO",
+     "price": "3.00",
+     "type": "Thé"
+   },
+   {
+     "name": "Souffle de l'Est",
+     "price": "3.00",
+     "type": "Thé"
+   },
+   {
+     "name": "Fleur de Sagesse",
+     "price": "3.00",
+     "type": "Thé"
+   },
+   {
+     "name": "Umà - Thé vert",
+     "price": "3.00",
+     "type": "Soft"
+   },
+   {
+     "name": "Umà - Thé noir",
+     "price": "3.00",
+     "type": "Soft"
+   },
+   {
+     "name": "Umà - Rooibos",
+     "price": "3.00",
+     "type": "Soft"
+   },
+   {
+     "name": "Umà - Limonade",
+     "price": "3.00",
+     "type": "Soft"
+   },
+   {
+     "name": "Umà - Cola",
+     "price": "3.00",
+     "type": "Soft"
+   }
+  ]
